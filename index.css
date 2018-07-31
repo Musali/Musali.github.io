@@ -491,7 +491,7 @@ a:hover {
 #four .bottom-button a {
 	position: absolute;
 	top: 30px;
-	left: 0px;
+	left: -58px;
 	width: 100%;
 	margin: 0 auto;
 }
