@@ -1,0 +1,231 @@
+HTML  CSS   Result
+Edit on 
+body {
+    background: #3E4649;
+    color: #f7f7f7;
+    font-family: 'Montserrat', sans-serif;
+}
+h1,
+h2 {
+    font-weight: bold;
+}
+p {
+    font-size: 16px;
+    color: #cdcdcd;
+}
+.navbar {
+    margin-bottom: 0;
+}
+.carousel-inner {
+    background: #2296cc;
+    color: white;
+    text-align: center;
+}
+.carousel-inner .container p {
+    color: white;
+    font-size: 26px;
+}
+.navbar-inverse {
+    background: #2E2F31;
+    border: 0;
+}
+.dropdown-menu {
+    background: #2E2F31;
+    border-radius: 0;
+    border: 0;
+}
+.navbar-inverse .navbar-nav li a {
+    color: #f7f7f7;
+    font-size: 16px;
+}
+.navbar-inverse .navbar-nav li a:hover {
+    background: #27A967;
+}
+.navbar-inverse .navbar-nav .dropdown-menu li a:hover {
+    background: #2C463C;
+}
+.dropdown-menu li a {
+    padding: 10px;
+}
+.btn-primary {
+    color: #fff;
+    background-color: transparent;
+    border-color: white;
+    margin-bottom: 5px;
+}
+.btn-primary:hover {
+    color: #27A967;
+    background-color: white;
+    border-color: white;
+}
+.glyphicon-large {
+    font-size: 100px;
+}
+.call-to-action {
+    text-align: center;
+}
+.call-to-action p {
+    margin-bottom: 30px;
+    font-family: sans-serif;
+}
+.logo{
+    border: 0;
+    width: 6em;
+    float: left;
+}
+.item{
+    height: 32em;
+}
+.item.active{
+    height: 32em;
+}
+.item img{
+    height: 100%;
+    width: 100%;
+}
+.item.active img{
+    height: 100%;
+    width: 100%;
+}
+.carousel-inner{
+    margin-bottom: 2em;
+}
+.carousel-inner>.item>img{
+    height: 100%;
+    width: 100%;
+}
+.container.caro{
+    padding-top: 19%;
+}
+footer {
+  background: #2295cd;
+  color: #aaa;
+  padding-top: 10px;
+}
+
+footer a {
+  color: #aaa;
+}
+
+footer a:hover {
+  color: #fff;
+}
+
+footer h3 {
+ color: #2e2f31;
+  letter-spacing: 1px;
+  margin: 30px 0 20px;
+}
+
+footer .three-column {
+ overflow: hidden;
+}
+
+footer .three-column li{
+ width: 33.3333%;
+  float: left;
+  padding: 5px 0;
+}
+
+footer .socila-list {
+  overflow: hidden;
+  margin: 20px 0 10px;
+}
+
+footer .socila-list li {
+  float: left;
+  margin-right: 3px;
+  transition: all 0.3s ease-in-out;
+}
+
+footer .socila-list li:hover {
+  opacity: 1;
+}
+
+footer .img-thumbnail {
+  background: rgba(0, 0, 0, 0.2);
+  border: 1px solid #444;
+  margin-bottom: 5px;
+}
+
+footer .copyright {
+  padding: 15px 0;
+  background: #2e2f31;
+  margin-top: 20px;
+  font-size: 15px;
+}
+
+footer .copyright span {
+  color: #0894d1;
+}
+.call-to-action{
+  padding: 10%;
+}
+.ourOrg{
+  margin-left: -8%;
+}
+.breaker {
+background: #eee;
+padding: .5em;
+}
+.breaker0{
+  padding: .5em;
+}
+.carousel-inner{
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+.bdyhdr{
+  text-align: center;
+  color: #2295cd;
+  margin-bottom: 0;
+  background: #333;
+  margin-top:0;
+  padding-top: 3%;
+}
+.crslp{
+    color: #000;
+    font-size: 2em;
+}
+.crslhdr{
+    color: #2294cd;
+    font-size: 3em;
+}
+#myCarousel{
+  height: 90vh;
+} 
+.carousel-inner, .carousel-inner > .item > img{
+  height: 90vh
+}
+.carousel-caption {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    top: 92%;
+  }
+.container{
+  padding-right: 0,
+  padding-left: 0;
+  margin-right: 0;
+  margin-left: 0;
+  width: 100%
+}
+.container.caro {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 19%;
+  margin: auto;
+  padding-top: 22%;
+}
+.carousel-indicators{
+  margin-bottom: 13%;
+}
+.navbar-right{
+  margin-right: 0;
+}
+.call-to-action {
+  background: #333;
+  color: #eee;
+}

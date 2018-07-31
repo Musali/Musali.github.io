@@ -1,0 +1,15 @@
+.header{
+background-image: url("aboutimg.jpg");
+height: 90vh;
+background-size: cover;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+color: white
+}
+#arw{
+	font-size: 8vh;
+	position: relative;
+	top: 31vh;
+}
