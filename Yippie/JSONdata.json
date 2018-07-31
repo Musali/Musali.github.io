@@ -1,0 +1,594 @@
+
+{ "info":      [
+        {
+            "name": "images/Philmont Scout Ranch/pic1.jpg",
+            "year": "2017",
+            "country": "United States",
+            "place": "Philmont Scout Ranch",
+            "state": "NM",
+            "location": "Mountain", 
+            "description": "Baldy Mountain from Copper Park"
+    
+            
+        }, 
+        {
+            "name": "images/Philmont Scout Ranch/pic2.jpg",
+            "year": "2017",
+            "country": "United States",
+            "place": "Philmont Scout Ranch",
+            "state": "NM",
+            "location": "Mountain", 
+            "description": "Hiking the canyon"  
+        },
+        {
+            "name": "images/Philmont Scout Ranch/pic3.jpg",
+            "year": "2017",
+            "country": "United States",
+            "place": "Philmont Scout Ranch",
+            "state": "NM",
+            "location": "Mountain", 
+            "description": "Looking up the canyon to the north"
+            
+        },
+        {
+            "name": "images/Philmont Scout Ranch/pic4.jpg",
+            "year": "2017",
+            "country": "United States",
+            "place": "Philmont Scout Ranch",
+            "state": "NM",
+            "location": "Mountain", 
+            "description": "Evening in the canyon"
+            
+        }, 
+        {
+            "name": "images/Philmont Scout Ranch/pic5.jpg",
+            "year": "2017",
+            "country": "United States",
+            "place": "Philmont Scout Ranch",
+            "state": "NM",
+            "location": "Mountain", 
+            "description": "Climbing a spar pole"   
+        },
+        {
+            "name": "images/Philmont Scout Ranch/pic6.jpg",
+            "year": "2017",
+            "country": "United States",
+            "place": "Philmont Scout Ranch",
+            "state": "NM",
+            "location": "Mountain", 
+            "description": "Low clouds heading to Rich Cabin"   
+        },
+        {
+            "name": "images/Philmont Scout Ranch/pic7.jpg",
+            "year": "2017",
+            "country": "United States",
+            "place": "Philmont Scout Ranch",
+            "state": "NM",
+            "location": "Mountain", 
+            "description": "Baldy Mountain from meadow south of Miranda"   
+        },
+        {
+            "name": "images/Philmont Scout Ranch/pic8.jpg",
+            "year": "2017",
+            "country": "United States",
+            "place": "Philmont Scout Ranch",
+            "state": "NM",
+            "location": "Mountain", 
+            "description": "Where are we going? "
+        },
+        {
+            "name": "images/Philmont Scout Ranch/pic9.jpg",
+            "year": "2017",
+            "country": "United States",
+            "place": "Philmont Scout Ranch",
+            "state": "NM",
+            "location": "Mountain", 
+            "description": "The Tooth of Time"   
+        },
+        {
+            "name": "images/Yellowstone National Park/pic10.jpg",
+            "year": "2016",
+            "country": "United States",
+            "place": "Yellowstone National Park",
+            "state": "WY",
+            "location": "Park", 
+            "description": "Lower Falls in the Grand Canyon of the Yellowstone, Yellowstone National Park"   
+        },
+        {
+            "name": "images/Yellowstone National Park/pic11.jpg",
+            "year": "2016",
+            "country": "United States",
+            "place": "Yellowstone National Park",
+            "state": "WY",
+            "location": "Park", 
+            "description": "Lower Falls, Yellowstone National Park"   
+        },
+        {
+            "name": "images/Yellowstone National Park/pic12.jpg",
+            "year": "2016",
+            "country": "United States",
+            "place": "Yellowstone National Park",
+            "state": "WY",
+            "location": "Park", 
+            "description": "Grand Prismatic Spring, Yellowstone National Park"   
+        },
+        {
+            "name": "images/Yellowstone National Park/pic13.jpg",
+            "year": "2016",
+            "country": "United States",
+            "place": "Yellowstone National Park",
+            "state": "WY",
+            "location": "Park", 
+            "description": "Bison in the way, Yellowstone National Park"   
+        },
+        {
+            "name": "images/Yellowstone National Park/pic14.jpg",
+            "year": "2016",
+            "country": "United States",
+            "place": "Yellowstone National Park",
+            "state": "WY",
+            "location": "Park", 
+            "description": "Looking towards Lake Yellowstone from the top of Mt. Washburn (10,243 ft.), Yellowstone National Park"   
+        },
+        {
+            "name": "images/Yellowstone National Park/pic15.jpg",
+            "year": "2016",
+            "country": "United States",
+            "place": "Yellowstone National Park",
+            "state": "WY",
+            "location": "Park", 
+            "description": "Mud pot, Yellowstone National Park"   
+        },
+        {
+            "name": "images/Yellowstone National Park/pic16.jpg",
+            "year": "2016",
+            "country": "United States",
+            "place": "Yellowstone National Park",
+            "state": "WY",
+            "location": "Park", 
+            "description": "Castle Geyser, Yellowstone National Park"   
+        },
+        {
+            "name": "images/Yellowstone National Park/pic17.jpg",
+            "year": "2016",
+            "country": "United States",
+            "place": "Yellowstone National Park",
+            "state": "WY",
+            "location": "Park", 
+            "description": "Yellowstone Lake, Yellowstone National Park"   
+        },
+        {
+            "name": "images/Cape Cod and Martha's Vineyard/pic18.jpg",
+            "year": "2016",
+            "country": "United States",
+            "place": "Cape Cod",
+            "state": "MA",
+            "location": "creek", 
+            "description": "Paines Creek, Brewster, Cape Cod"   
+        },
+        {
+            "name": "images/Cape Cod and Martha's Vineyard/pic19.jpg",
+            "year": "2015",
+            "country": "United States",
+            "place": "Martha's Vineyard",
+            "state": "MA",
+            "location": "West Chop", 
+            "description": "West Chop lighthouse, Martha's Vineyard"   
+        },
+        {
+            "name": "images/Cape Cod and Martha's Vineyard/pic20.jpg",
+            "year": "2015",
+            "country": "United States",
+            "place": "Martha's Vineyard",
+            "state": "MA",
+            "location": "Jaws Bridge", 
+            "description": "Jumping off the Jaws Bridge, Martha's Vineyard"   
+        },
+        {
+            "name": "images/Cape Cod and Martha's Vineyard/pic21.jpg",
+            "year": "2015",
+            "country": "United States",
+            "place": "Martha's Vineyard",
+            "state": "MA",
+            "location": "Vineyard Haven harbor", 
+            "description": "Vineyard Haven harbor, Martha's Vineyard"   
+        },
+        {
+            "name": "images/Cape Cod and Martha's Vineyard/pic22.jpg",
+            "year": "2015",
+            "country": "United States",
+            "place": "Martha's Vineyard",
+            "state": "MA",
+            "location": "West Chop", 
+            "description": "West Chop, Martha's Vineyard"   
+        },
+        {
+            "name": "images/Cape Cod and Martha's Vineyard/pic23.jpg",
+            "year": "2015",
+            "country": "United States",
+            "place": "Martha's Vineyard",
+            "state": "MA",
+            "location": "Oak Bluffs", 
+            "description": "MVCMA cottages, Oak Bluffs, Martha's Vineyard"   
+        },
+        {
+            "name": "images/Cape Cod and Martha's Vineyard/pic24.jpg",
+            "year": "2015",
+            "country": "United States",
+            "place": "Florida Keys",
+            "state": "FL",
+            "location": "Islamorada", 
+            "description": "Boy Scout Sea Base, Islamorada, Florida Keys"   
+        },
+        {
+            "name": "images/Cape Cod and Martha's Vineyard/pic25.jpg",
+            "year": "2015",
+            "country": "United States",
+            "place": "Florida Keys",
+            "state": "FL",
+            "location": "Islamorada", 
+            "description": "Sail boats, Islamorada, Florida Keys"   
+        },
+        {
+            "name": "images/Cape Cod and Martha's Vineyard/pic26.jpg",
+            "year": "2015",
+            "country": "United States",
+            "place": "Florida Keys",
+            "state": "FL",
+            "location": "Islamorada", 
+            "description": "At the dock at Sea Base, Islamorada, Florida Keys"   
+        },
+        {
+            "name": "images/Cape Cod and Martha's Vineyard/pic27.jpg",
+            "year": "2015",
+            "country": "United States",
+            "place": "Florida Keys",
+            "state": "FL",
+            "location": "sea Florida Keys", 
+            "description": "Under sail, Florida Keys"   
+        },
+        {
+            "name": "images/Cape Cod and Martha's Vineyard/pic28.jpg",
+            "year": "2015",
+            "country": "United States",
+            "place": "Florida Keys",
+            "state": "FL",
+            "location": "Gulf of Mexico", 
+            "description": "Evening sets in, somewhere in the Gulf of Mexico off the Florida Keys"   
+        }, 
+        {
+            "name": "images/Europe/pic29.jpg",
+            "year": "2010",
+            "country": "Germany",
+            "place": "Bavaria",
+            "state": "",
+            "location": "Neuschwanstein Castle", 
+            "description": "Neuschwanstein Castle, Bavaria, Germany"   
+        },
+        {
+            "name": "images/Europe/pic30.jpg",
+            "year": "2012",
+            "country": "Germany",
+            "place": "Bonn",
+            "state": "",
+            "location": "The Old Town Hall", 
+            "description": "The Old Town Hall, Bonn, Germany"   
+        },
+        {
+            "name": "images/Europe/pic31.jpg",
+            "year": "2012",
+            "country": "Germany",
+            "place": "Bonn",
+            "state": "",
+            "location": "University", 
+            "description": "TThe university in Bonn, Germany"   
+        },
+        {
+            "name": "images/Europe/pic330.jpg",
+            "year": "2012",
+            "country": "Germany",
+            "place": "Bavaria",
+            "state": "",
+            "location": "Northern Bavaria", 
+            "description": "Downtown Hof, Northern Bavaria, Germany. This is the home of my mother's side of the family"   
+        },
+        {
+            "name": "images/Europe/pic33.jpg",
+            "year": "2010",
+            "country": "Germany",
+            "place": "Bavaria",
+            "state": "",
+            "location": "Wallgau", 
+            "description": "Festival in Wallgau, Bavaria, Germany"   
+        },
+        {
+            "name": "images/Europe/pic34.jpg",
+            "year": "2010",
+            "country": "Germany",
+            "place": "Bavaria",
+            "state": "",
+            "location": "Wallgau", 
+            "description": "Children at the festival in Wallgau, Bavaria, Germany"   
+        },
+        {
+            "name": "images/Europe/pic35.jpg",
+            "year": "2010",
+            "country": "Germany",
+            "place": "Bavaria",
+            "state": "",
+            "location": "Garmisch", 
+            "description": "Bavarian Alps in Garmisch, Bavaria, Germany"   
+        },
+        {
+            "name": "images/Europe/pic36.jpg",
+            "year": "2008",
+            "country": "UK",
+            "place": "Devon",
+            "state": "",
+            "location": "Dartmouth", 
+            "description": "View from Dartmouth, Devon, UK"   
+        },
+        {
+            "name": "images/Europe/pic37.jpg",
+            "year": "2008",
+            "country": "UK",
+            "place": "Devon",
+            "state": "",
+            "location": "Dartmouth", 
+            "description": "Rainbow over Dartmouth, Devon, UK"   
+        },
+        {
+            "name": "images/Europe/pic38.jpg",
+            "year": "2008",
+            "country": "UK",
+            "place": "Devon",
+            "state": "",
+            "location": "Street", 
+            "description": "Typical street in Dartmouth, Devon, UK"   
+        },
+        {
+            "name": "images/Europe/pic39.jpg",
+            "year": "2008",
+            "country": "UK",
+            "place": "Cornwall",
+            "state": "",
+            "location": "Tintagel", 
+            "description": "The site of the castle of the mythical King Arthur in Tintagel, Cornwall, UK"   
+        },
+        {
+            "name": "images/Europe/pic40.jpg",
+            "year": "2007",
+            "country": "Spain",
+            "place": "Barcelona",
+            "state": "",
+            "location": "Park", 
+            "description": "The Magic Fountain in Barcelona, Spain"   
+        },
+        {
+            "name": "images/Europe/pic41.jpg",
+            "year": "2007",
+            "country": "Spain",
+            "place": "Barcelona",
+            "state": "",
+            "location": "Park", 
+            "description": "Roof of Gaudi's House of Bones, Barcelona, Spain"   
+        },
+        {
+            "name": "images/Europe/pic42.jpg",
+            "year": "2007",
+            "country": "United State",
+            "place": "New Hampshire",
+            "state": "NH",
+            "location": "Park", 
+            "description": "Covered bridge in Lincoln, NH"   
+        },
+        {
+            "name": "images/Europe/pic43.jpg",
+            "year": "2007",
+            "country": "US",
+            "place": "Lincoln",
+            "state": "NH",
+            "location": "Mountain", 
+            "description": "Mts. Lincoln and Flume, Lincoln, NH"   
+        },
+        {
+            "name": "images/England/pic44.jpg",
+            "year": "2005",
+            "country": "England",
+            "place": "West Sussex",
+            "state": "",
+            "location": "Arundel Castle", 
+            "description": "Arundel Castle in West Sussex, UK, still inhabited by the Duke of Norfolk"   
+        },
+        {
+            "name": "images/England/pic45.jpg",
+            "year": "2005",
+            "country": "England",
+            "place": "Lewes",
+            "state": "",
+            "location": "Kingston", 
+            "description": "A view of Kingston near Lewes"   
+        },
+        {
+            "name": "images/England/pic46.jpg",
+            "year": "2005",
+            "country": "England",
+            "place": "Lewes",
+            "state": "",
+            "location": "Kingston", 
+            "description": "St Pancas church (13th c.) in Kingston near Lewes, UK"   
+        },
+        {
+            "name": "images/England/pic47.jpg",
+            "year": "2005",
+            "country": "England",
+            "place": "Lewes",
+            "state": "",
+            "location": "South Downs", 
+            "description": "A view of the South Downs at sunset.The town of Lewes, UK, is in the distance"   
+        },
+        {
+            "name": "images/England/pic49.jpg",
+            "year": "2005",
+            "country": "England",
+            "place": "Lewes",
+            "state": "",
+            "location": "Southover Grange Gardens", 
+            "description": "Southover Grange Gardens, Lewes, UK" 
+        },
+        {
+            "name": "images/England/pic51.jpg",
+            "year": "2005",
+            "country": "England",
+            "place": "",
+            "state": "",
+            "location": "", 
+            "description": "Got Sheep?" 
+        },
+        {
+            "name": "images/England/pic50.jpg",
+            "year": "2005",
+            "country": "England",
+            "place": "Lewes",
+            "state": "",
+            "location": "Lewes Castle", 
+            "description": "Looking at the town from the top of Lewes Castle, Lewes" 
+        },
+        {
+            "name": "images/England/pic52.jpg",
+            "year": "2005",
+            "country": "England",
+            "place": "East Sussex",
+            "state": "",
+            "location": "Eastbourne", 
+            "description": "A view of Eastbourne, on the coast in East Sussex" 
+        },
+        {
+            "name": "images/England/pic53.jpg",
+            "year": "2005",
+            "country": "England",
+            "place": "East Sussex",
+            "state": "",
+            "location": "Bodiam Castle", 
+            "description": "The moated Bodiam Castle in East Sussex, UK (2005)." 
+        },
+        {
+            "name": "images/England/pic54.jpg",
+            "year": "2005",
+            "country": "England",
+            "place": "Kent",
+            "state": "",
+            "location": "Haver Castle", 
+            "description": "Hever Castle in Kent, UK, childhood home of Anne Boleyn" 
+        },
+        {
+            "name": "images/England/pic55.jpg",
+            "year": "2005",
+            "country": "England",
+            "place": "Kent",
+            "state": "",
+            "location": "Leeds Castle", 
+            "description": "Leeds Castle in Kent, UK, Henry VIII's favorite residence." 
+        },
+        {
+            "name": "images/Ski/pic56.jpg",
+            "year": "2013",
+            "country": "United States",
+            "place": "Breckenridge",
+            "state": "CO",
+            "location": "Town of Breckenridge", 
+            "description": "Town of Breckenridge, CO, with ski area in background" 
+        },
+        {
+            "name": "images/Ski/pic57.jpg",
+            "year": "2013",
+            "country": "United States",
+            "place": "Breckenridge",
+            "state": "CO",
+            "location": "ski area", 
+            "description": "Some of the bowls at Breckenridge" 
+        },
+        {
+            "name": "images/Ski/pic58.jpg",
+            "year": "2013",
+            "country": "United States",
+            "place": "Breckenridge",
+            "state": "CO",
+            "location": "ski area", 
+            "description": "Me skiing amidst the crowds in one of the bowls" 
+        },
+        {
+            "name": "images/Ski/pic60.jpg",
+            "year": "2013",
+            "country": "United States",
+            "place": "Breckenridge",
+            "state": "CO",
+            "location": "ski area", 
+            "description": "Got snow?" 
+        },
+        {
+            "name": "images/Ski/pic61.jpg",
+            "year": "2013",
+            "country": "United States",
+            "place": "Breckenridge",
+            "state": "CO",
+            "location": "ski area", 
+            "description": "Jim making his way down some steeps during a snowstorm" 
+        },
+        {
+            "name": "images/Ski/pic62.jpg",
+            "year": "2013",
+            "country": "United States",
+            "place": "Breckenridge",
+            "state": "CO",
+            "location": "ski area", 
+            "description": "Got oxygen?" 
+        },
+        {
+            "name": "images/Ski/pic63.jpg",
+            "year": "2013",
+            "country": "United States",
+            "place": "Breckenridge",
+            "state": "CO",
+            "location": "Copper Mt", 
+            "description": "Views from one of the peaks of Copper Mt., CO " 
+        },
+        {
+            "name": "images/Ski/pic64.jpg",
+            "year": "2013",
+            "country": "United States",
+            "place": "Breckenridge",
+            "state": "CO",
+            "location": "Resolution Bowl", 
+            "description": "The double-black Resolution Bowl at Copper Mt., CO" 
+        },
+         {
+            "name": "images/Ski/pic65.jpg",
+            "year": "2013",
+            "country": "United States",
+            "place": "Breckenridge",
+            "state": "CO",
+            "location": "Resolution Bowl", 
+            "description": "Jim struggling down the lower portion of Resolution"
+        },
+         {
+            "name": "images/Ski/pic66.jpg",
+            "year": "2013",
+            "country": "United States",
+            "place": "Stratton Mt.",
+            "state": "VT",
+            "location": "Stratton Mt.", 
+            "description": "Stratton Mt., VT, in mid-winter form - in April!" 
+        },
+         {
+            "name": "images/Ski/pic67.jpg",
+            "year": "2013",
+            "country": "United States",
+            "place": "Stratton Mt.",
+            "state": "VT",
+            "location": "Stratton Mt.", 
+            "description": "Perfect snow down a black diamond at Stratton" 
+        }
+
+    ]
+}

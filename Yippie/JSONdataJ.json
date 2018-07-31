@@ -1,0 +1,97 @@
+{ "info":      [
+        {
+            "name": "imagesJane/thiumph.jpg",
+            "year": "2017",
+            "country": "Bhutan",
+            "place": "Thiumph",
+            "state": "",
+            "location": "city", 
+            "description": "home of the great Phuntsho Norbu"
+    
+            
+        }, 
+        {
+            "name": "imagesJane/jakar.jpg",
+            "year": "2017",
+            "country": "Bhutan",
+            "place": "Jakar",
+            "state": "",
+            "location": "city", 
+            "description": "The white bird"  
+        },
+        {
+            "name": "imagesJane/punakha.jpg",
+            "year": "2016",
+            "country": "Bhutan",
+            "place": "Punakha",
+            "state": "",
+            "location": "town", 
+            "description": "former capital of Bhutan"
+            
+        },
+        {
+            "name": "imagesJane/gelephu.jpg",
+            "year": "2016",
+            "country": "Bhutan",
+            "place": "Gelephu",
+            "state": "",
+            "location": "town", 
+            "description": "border of India"
+            
+        }, 
+        {
+            "name": "imagesJane/trongsa.jpg",
+            "year": "2017",
+            "country": "Bhutan",
+            "place": "Trongsa",
+            "state": "",
+            "location": "dzong fortress", 
+            "description": "means new village"   
+        },
+        {
+            "name": "imagesJane/nairobi.jpg",
+            "year": "2017",
+            "country": "Kenya",
+            "place": "Nairobi",
+            "state": "",
+            "location": "city", 
+            "description": "where musa used to rest his head"   
+        },
+        {
+            "name": "imagesJane/mombasa.png",
+            "year": "2016",
+            "country": "Kenya",
+            "place": "Mombasa",
+            "state": "",
+            "location": "fort jesus", 
+            "description": "catch a wave, plays soom football"   
+        },
+        {
+            "name": "imagesJane/eldoret.jpg",
+            "year": "2017",
+            "country": "Kenya",
+            "place": "Eldoret",
+            "state": "",
+            "location": "track", 
+            "description": "Home of the runners"
+        },
+        {
+            "name": "imagesJane/nakuru.jpg",
+            "year": "2016",
+            "country": "Kenya",
+            "place": "Nakuru",
+            "state": "",
+            "location": "Lake Nakuru", 
+            "description": "flamingos"   
+        },
+        {
+            "name": "imagesJane/turkana.jpg",
+            "year": "2016",
+            "country": "Kenya",
+            "place": "Turkana",
+            "state": "",
+            "location": "desert", 
+            "description": "Man watching over cattle"   
+        }
+    ]
+}
