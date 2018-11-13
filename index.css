@@ -2,6 +2,9 @@ html, body {
 	margin: 0;
 	padding: 0;
 }
+.inactive{
+	display: none;
+}
 body {
 	font-family: "Raleway", sans-serif, helvetica;
 	color: #666;
@@ -563,6 +566,9 @@ text-align: center;
 #projects-done {
 	margin-top: 10px;
 }
+#projects-progress {
+	margin-top: 10px;
+}
 #project-list img {
 	width: 60px;
 	margin: 0px 5px;
@@ -598,6 +604,11 @@ text-align: center;
 	display: none;
 }
 #projects-done .project-caption p {
+	width: 250px;
+	margin: 0 auto;
+	font-size: 18px;
+}
+#projects-progress .project-caption p {
 	width: 250px;
 	margin: 0 auto;
 	font-size: 18px;
@@ -1775,7 +1786,11 @@ img.palms2 {
 	width: 100%;
 
 }
+#projects-progress .project-container p {
+	font-size: 15px;
+	width: 100%;
 
+}
 .project-container img {
 	width: 150px;
 

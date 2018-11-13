@@ -63,4 +63,30 @@ $(function(){
   for(var i = 0; i < headerSkills.length; i++){
     skillsAppear(i);
   }
-});
+  var projectsDone = $("#projects-done")
+  var categoryOne = $("#firstCat");
+  var categoryTwo = $("#2ndCat");
+  var category = $(".category");
+
+  categoryOne.click(function(){
+    if($(this).hasClass("active")){}
+      else {
+        $(this).addClass("active");
+        categoryTwo.removeClass("active");
+        $("#projects-done").removeClass("inactive");
+        $("#projects-progress").addClass("inactive");
+      }
+    })
+
+  categoryTwo.click(function(){
+    console.log("hellocategroy2")
+    if($(this).hasClass("active")){}
+      else {
+        $(this).addClass("active");
+        categoryOne.removeClass("active");
+        $("#projects-progress").removeClass("inactive");
+        $("#projects-done").addClass("inactive");
+      }
+    });
+
+  });
