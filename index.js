@@ -1,9 +1,9 @@
 $(function(){
-  
+
   var projectLoc = $('#current').offset().top;
   var aboutLoc = $('#one').offset().top;
   var contactLoc = $('#four').offset().top;
-  
+
   function scrollClick(){
     $('.desktop-nav ul li a, footer .copyright ul li a').click((evt) => {
       var target = evt.target;
@@ -20,7 +20,7 @@ $(function(){
     }, 600)
   }
   scrollClick();
-  
+
   $(".hamburger-menu-desktop").click(function() {
     $("#right-nav").animate({right: '-100px'}, 500);
   });
@@ -63,4 +63,4 @@ $(function(){
   for(var i = 0; i < headerSkills.length; i++){
     skillsAppear(i);
   }
-});  
+});

@@ -233,9 +233,9 @@ a:hover {
 	display: block;
 	margin: 0 auto;
 	border-radius: 50%;
-	width: 250px;
-	height: 246px;
-	border: 5px solid #e2e2e2;	
+	width: 300px;
+	height: 278px;
+	border: 5px solid #e2e2e2;
 }
 
 #header-skills li {
@@ -313,8 +313,8 @@ a:hover {
 	padding-bottom: 20px;
 }
 #one img {
-	width: 250px;
-	border-radius: 10px;	
+	height: 250px;
+	border-radius: 10px;
 }
 
 /********************** TWO *************************
@@ -358,7 +358,7 @@ a:hover {
 	display: block;
 	padding: 20px 0;
 	background-color: #F32853;
-	margin-bottom: 15px; 
+	margin-bottom: 15px;
 	color: white;
 	border-radius: 6px;
 	text-decoration: none;
@@ -421,7 +421,7 @@ a:hover {
 	transition: left .4s linear;
 	-webkit-transition: left .4s linear;
 	-moz-transition: left .4s linear;
-	width: 100%;	
+	width: 100%;
 }
 #marketing-skills.view {
 	left: 0px;
@@ -580,7 +580,7 @@ text-align: center;
 	width: 300px;
 	margin: 0 auto;
 	position: relative;
-	overflow: hidden;	
+	overflow: hidden;
 }
 .project-container p {
 	margin-bottom: 20px;
@@ -618,7 +618,7 @@ text-align: center;
 	border-bottom: 1px solid #e2e2e2;
 	background-image: linear-gradient(to right bottom, #35115a 20%, #84355a 45%, #d25959 62%, #867e53 83%, #f9a24d 100%);
 	background-image: -webkit-linear-gradient(to right bottom, #35115a 20%, #84355a 45%, #d25959 62%, #867e53 83%, #f9a24d 100%);
-	background-image: -moz-linear-gradient(to right bottom, #35115a 20%, #84355a 45%, #d25959 62%, #867e53 83%, #f9a24d 100%);	
+	background-image: -moz-linear-gradient(to right bottom, #35115a 20%, #84355a 45%, #d25959 62%, #867e53 83%, #f9a24d 100%);
 }
 #about h1 {
 	margin: 20px auto 30px auto;
@@ -647,7 +647,7 @@ text-align: center;
 }
 #about .photo-row ul {
 	text-align: center;
-} 
+}
 #about .photo-row li {
 	display: inline-block;
 	padding: 6px;
@@ -682,7 +682,7 @@ text-align: center;
 	text-align: center;
 	font-size: 1.2em;
 	padding: 10px 0px;
-}	
+}
 #skills .skill-text li:nth-of-type(4){
 	margin-bottom: 25px;
 }
@@ -788,7 +788,7 @@ img.palms2 {
 #form-holder #input button:hover {
 	background-color: #f43d64;
 }
-	
+
 /********************** FOOTER *************************
 *****************************************************/
 
@@ -842,7 +842,7 @@ footer {
 	-moz-transition: all .8s cubic-bezier(0,0.99,0.29,1.02);
 	transition-delay: .1s;
 	-webkit-transition-delay: .1s;
-	-moz-transition-delay: .1s;	
+	-moz-transition-delay: .1s;
 }
 .animate-left {
 	transform: translate(-25px, 0);
@@ -853,7 +853,7 @@ footer {
 	-moz-transition: all .8s cubic-bezier(0,0.99,0.29,1.02);
 	transition-delay: .1s;
 	-webkit-transition-delay: .1s;
-	-moz-transition-delay: .1s;	
+	-moz-transition-delay: .1s;
 
 }
 .animate-complete {
@@ -1229,8 +1229,8 @@ footer {
 	min-height: 750px;
 	transition: opacity .5s linear;
 	-webkit-transition: opacity .5s linear;
-	-moz-transition: opacity .5s linear;	
-}	
+	-moz-transition: opacity .5s linear;
+}
 
 /*************************  FOOTER ******************************/
 
@@ -1252,7 +1252,7 @@ footer {
 	background: -webkit-linear-gradient(to right bottom,#01193e,#003b68,#0075ad,#179ccf);
 	background: -moz-linear-gradient(to right bottom,#01193e,#003b68,#0075ad,#179ccf);
 }
-#current-projects .row {	
+#current-projects .row {
 	position: relative;
 }
 #project-list {
@@ -1322,6 +1322,7 @@ footer {
 .project-container {
 	width: 250px;
 	margin: 0 auto;
+	height: 16.4em;
 }
 .project-caption {
 	position: absolute;
@@ -1335,7 +1336,7 @@ footer {
 	padding: 10px;
 	transition: bottom .5s ease-in-out;
 	-webkit-transition: bottom .5s ease-in-out;
-	-moz-transition: bottom .5s ease-in-out; 
+	-moz-transition: bottom .5s ease-in-out;
 }
 #current {
 	padding-bottom: 75px;
@@ -1422,7 +1423,7 @@ footer {
 
 #about .photo-row ul {
 	text-align: center;
-} 
+}
 #about .photo-row li {
 	display: inline-block;
 	padding: 6px;
@@ -1448,7 +1449,7 @@ footer {
 	top: 0px;
 	max-width: 1040px;
 	width: 90%;
-	margin: 0 auto;	
+	margin: 0 auto;
 }
 #skills .skill-text:nth-of-type(1){
 	float: left;
@@ -1465,7 +1466,7 @@ footer {
 	text-align: center;
 	font-size: 1.2em;
 	padding: 10px 0px;
-}	
+}
 #skills .skill-text li:nth-of-type(4){
 	margin-bottom: 25px;
 }
@@ -1537,7 +1538,7 @@ img.palms2 {
 	padding-top: 140px;
 	background: linear-gradient(to right bottom,#131c47,#192152,#474c9a,#ac93d2);
 	background: -moz-linear-gradient(to right bottom,#131c47,#192152,#474c9a,#ac93d2);
-	background: -webkit-linear-gradient(to right bottom,#131c47,#192152,#474c9a,#ac93d2);	
+	background: -webkit-linear-gradient(to right bottom,#131c47,#192152,#474c9a,#ac93d2);
 }
 #form-holder {
 	width: 100%;
@@ -1670,7 +1671,7 @@ img.palms2 {
 
 .photo-container {
 	width: 33%;
-	padding: 4px; 
+	padding: 4px;
 	margin-bottom: 2px;
 
 }
@@ -1713,7 +1714,7 @@ img.palms2 {
 	width: 100%;
 	margin: 0px;
 	text-align: center;
-}	
+}
 
 #one .header-text {
 	float: none;
@@ -1850,7 +1851,7 @@ img.palms2 {
 #form-holder .icons{
 	width: 100%;
 	margin: 0 auto;
-	text-align: left;	
+	text-align: left;
 }
 #form-holder .icons li {
 	display: inline-block;
