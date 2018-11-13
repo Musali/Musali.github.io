@@ -1,0 +1,22 @@
+.bgrd1{
+  background-image: url("img/space2.jpg");
+  background-repeat: no-repeat;
+  background-size: 59em 80em;
+  float: left;
+  width: 54em;
+  height: 80em;
+}
+body{
+  background-color: black;
+}
+.bgrd2{
+  background-image: url("img/space1.jpg");
+  background-size: 59em 80em;
+  float: right;
+  width: 54em;
+  height: 80em;
+  }
+
+html{
+    zoom: 50%;
+  }
